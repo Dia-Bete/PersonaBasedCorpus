@@ -1,0 +1,412 @@
+[
+    {
+        "X":"Eu gostaria de saber o que diab\u00e9tico pode ou n\u00e3o pode comer, estou muito magra e queria engordar um pouco.",
+        "y":"\u00c9 importante lembrar que tudo em excesso faz mal e que mais importante que comer ou deixar de comer certos alimentos, \u00e9 ter uma dieta balanceada com os nutrientes e calorias adequadas para cada pessoa. Por isso, \u00e9 ideal que se consulte com um nutricionista (que est\u00e3o dispon\u00edveis gratuitamente no SUS) que poder\u00e1 montar uma dieta ideal para as suas necessidades.",
+        "persona":"technical"
+    },
+    {
+        "X":"Ol\u00e1, descobri h\u00e1 pouco tempo a diabetes, posso comer farinha de milho? Obrigada.",
+        "y":"A farinha de milho \u00e9 um alimento com muitas calorias e carboidratos. O seu consumo faz subir muito a quantidade de a\u00e7\u00facar no sangue (glicemia), e, portanto, deve ser evitado pelas pessoas com diabetes. \u00c9 importante lembrar que tudo em excesso faz mal e que mais importante que comer ou deixar de comer certos alimentos, \u00e9 ter uma dieta balanceada com os nutrientes e calorias adequadas para cada pessoa. Por isso, \u00e9 ideal que se consulte com um nutricionista (que est\u00e3o dispon\u00edveis gratuitamente no SUS) que poder\u00e1 montar uma dieta ideal para as suas necessidades.",
+        "persona":"technical"
+    },
+    {
+        "X":"Obrigada por me aceitar. Ir\u00e1 me dar uma luz, pois meu marido e minha filha s\u00e3o diab\u00e9ticos e eu n\u00e3o. Espero que seja um caminho",
+        "y":"Lidar com uma doen\u00e7a cr\u00f4nica pode ser muito dif\u00edcil e doloroso. Por\u00e9m, esse processo tamb\u00e9m pode ser visto como uma nova chance de se tratar de uma forma mais carinhosa e saud\u00e1vel! As mudan\u00e7as de estilo de vida (alimenta\u00e7\u00e3o saud\u00e1vel, pr\u00e1tica de exerc\u00edcios f\u00edsicos, perda de peso...) s\u00e3o uma parte fundamental do tratamento de qualquer um com diabetes. Para al\u00e9m disso, por\u00e9m, elas promovem uma mudan\u00e7a em toda a forma de se relacionar com o corpo. D\u00ea uma chance \u00e0 sa\u00fade, \u00e9 poss\u00edvel controlar o diabetes! Al\u00e9m disso, est\u00e3o dispon\u00edveis gratuitamente pelo SUS profissionais como psic\u00f3logos e nutricionistas que tamb\u00e9m podem auxiliar nesse processo!",
+        "persona":"technical"
+    },
+    {
+        "X":"E quanto ao p\u00e3o, que \u00e9 um alimento milenar. Voc\u00eas usam ou substituem?",
+        "y":"O p\u00e3o branco \u00e9 um alimento com muitas calorias e carboidratos. O seu consumo faz subir muito a quantidade de a\u00e7\u00facar no sangue (glicemia), e, portanto, deve ser evitado pelas pessoas com diabetes. \u00c9 importante lembrar que tudo em excesso faz mal e que mais importante que comer ou deixar de comer certos alimentos, \u00e9 ter uma dieta balanceada com os nutrientes e calorias adequadas para cada pessoa. Por isso, \u00e9 ideal que se consulte com um nutricionista (que est\u00e3o dispon\u00edveis gratuitamente no SUS) que poder\u00e1 montar uma dieta ideal para as suas necessidades.",
+        "persona":"technical"
+    },
+    {
+        "X":"Bom dia a todos. Quem tem diabetes pode comer farinha de milho?",
+        "y":"Os alimentos a base de milho podem ser consumidos. O milho \u00e9 um cereal, ent\u00e3o possui carboidratos, mas ele in natura tamb\u00e9m tem fibras, o que reduz o seu \u00edndice glic\u00eamico. Para as prepara\u00e7\u00f5es, como as feitas com farinha, opte por escolher acompanhamentos fontes de prote\u00ednas (ovos, queijos, pasta de amendoim), fibras (folhosos, sementes e farelos) e gorduras boas (azeite, abacate, coco, castanhas, queijos). Para uma orienta\u00e7\u00e3o mais espec\u00edfica o ideal \u00e9 que voc\u00ea se consulte com um nutricionista (que est\u00e3o dispon\u00edveis gratuitamente no SUS) pois ele poder\u00e1 montar uma dieta ideal para as suas necessidades.",
+        "persona":"simple"
+    },
+    {
+        "X":"Pode comer fruta? Abacate batido com lim\u00e3o e ado\u00e7ante?",
+        "y":"\u00c9 importante lembrar que tudo em excesso faz mal e que mais importante que comer ou deixar de comer certos alimentos, \u00e9 ter uma dieta balanceada com os nutrientes e calorias adequadas para cada pessoa. Por isso, \u00e9 ideal que se consulte com um nutricionista (que est\u00e3o dispon\u00edveis gratuitamente no SUS) que poder\u00e1 montar uma dieta ideal para as suas necessidades.",
+        "persona":"technical"
+    },
+    {
+        "X":"Algu\u00e9m j\u00e1 teve coronav\u00edrus? Como foi?",
+        "y":"O diabetes pode provocar o aparecimento de diversas outras doen\u00e7as, o que inclui doen\u00e7as infecciosas (causadas por v\u00edrus, bact\u00e9rias, etc.) e do cora\u00e7\u00e3o. Por isso, \u00e9 muito importante que seja feito um controle rigoroso, em que o m\u00e9dico e o paciente sejam parceiros na luta contra essa condi\u00e7\u00e3o. O controle do diabetes \u00e9 poss\u00edvel!",
+        "persona":"technical"
+    },
+    {
+        "X":"S\u00f3 pra lembrar: tudo o que voc\u00ea come, ou quase tudo, vira a\u00e7\u00facar. Ent\u00e3o, o diab\u00e9tico n\u00e3o vive, sobrevive. Ah, gente, vi uma pergunta agora, a pessoa disse: \"Posso comer chocolate?\". Ora, \u00f3bvio que n\u00e3o.",
+        "y":"Nenhum alimento \u00e9 proibido quando as quantidades s\u00e3o calculadas para as suas necessidades! Ter uma dieta equilibrada em nutrientes e calorias \u00e9 essencial para o controle do diabetes. Procure um nutricionista (dispon\u00edvel gratuitamente no SUS) para montar um plano alimentar que seja ideal para voc\u00ea e suas necessidades, e lembre-se de mencionar o desejo de comer chocolate eventualmente, para que juntos voc\u00eas possam bolar a melhor estrat\u00e9gia e encontrar as melhores op\u00e7\u00f5es para realizar esse desejo.",
+        "persona":"simple"
+    },
+    {
+        "X":"Boa noite pra todos! Gente, ajuda a\u00ed, qual \u00e9 a Metformina que emagrece? Quantos miligramas?",
+        "y":"A Metformina de qualquer marca \u00e9 um rem\u00e9dio que pode sim levar a perda de peso. No entanto, n\u00e3o adianta apenas tomar esse rem\u00e9dio sem mudar os seus h\u00e1bitos de vida. \u00c9 necess\u00e1rio adotar uma dieta equilibrada e praticar exerc\u00edcios f\u00edsicos regularmente, caso contr\u00e1rio n\u00e3o haver\u00e1 emagrecimento. Al\u00e9m disso, a dose (em miligramas) deve ser tomada de acordo com a orienta\u00e7\u00e3o do m\u00e9dico e n\u00e3o de qualquer forma com o objetivo de emagrecer.",
+        "persona":"technical"
+    },
+    {
+        "X":"Boa tarde. Minha glicose hoje, em jejum, estava 95. Duas horas ap\u00f3s o almo\u00e7o, minha glicose est\u00e1 108.",
+        "y":"\nNo tratamento da pessoa com diabetes, os valores ideais de glicose no sangue (glicemia) dependem de v\u00e1rios fatores, como a hora do dia em que a medida \u00e9 feita e quando foi consumida a \u00faltima refei\u00e7\u00e3o. De modo geral, em jejum e antes das refei\u00e7\u00f5es, a glicemia alvo est\u00e1 entre 80 e 130. Por outro lado, at\u00e9 2 horas depois das refei\u00e7\u00f5es, tolera-se uma glicemia de at\u00e9 180. No entanto, essa meta pode ser alterada de acordo com algumas caracter\u00edsticas de cada indiv\u00edduo. Nesse sentido, o m\u00e9dico pode optar por fazer um controle mais restrito em pessoas jovens, saud\u00e1veis e/ou com pouco tempo de diabetes, buscando valores de glicemia mais baixos. Por outro lado, pode-se tolerar um controle menos restrito em pessoas idosas, com outros problemas de sa\u00fade e/ou com longo tempo de diabetes, estabelecendo metas de glicemia mais altas. Portanto, ainda que seu exame esteja dentro das metas acima, pode ser que elas n\u00e3o sejam as mais adequadas para voc\u00ea, por isso \u00e9 muito importante que voc\u00ea mantenha controle regular com um m\u00e9dico, que ir\u00e1 estabelecer o melhor tratamento para o seu caso.",
+        "persona":"technical"
+    },
+    {
+        "X":"Quem tem diabetes pode comer ovo frito?",
+        "y":"Pode sim. N\u00e3o h\u00e1 nenhuma restri\u00e7\u00e3o de alimentos para os diab\u00e9ticos, o importante \u00e9 se atentar a quantidade (principalmente de carboidratos/a\u00e7\u00facares) a ser consumida e a adotar de uma padr\u00e3o alimentar saud\u00e1vel. Para uma orienta\u00e7\u00e3o mais espec\u00edfica o ideal \u00e9 que voc\u00ea se consulte com um nutricionista (que est\u00e3o dispon\u00edveis gratuitamente no SUS) pois ele poder\u00e1 montar uma dieta ideal para as suas necessidades.",
+        "persona":"simple"
+    },
+    {
+        "X":"Tomo Glibenclamida (1) e Metformina (2) faz uns 5 anos! Sempre d\u00e1 entre 110 e 125! Isso \u00e9 bom?",
+        "y":"No tratamento da pessoa com diabetes, os valores ideais de glicose no sangue (glicemia) dependem de v\u00e1rios fatores, como a hora do dia em que a medida \u00e9 feita e quando foi consumida a \u00faltima refei\u00e7\u00e3o.  Por isso, \u00e9 muito importante que voc\u00ea especifique em qual momento do dia foi feita essa medida. De modo geral, em jejum e antes das refei\u00e7\u00f5es, a glicemia alvo est\u00e1 entre 80 e 130. Por outro lado, at\u00e9 2 horas depois das refei\u00e7\u00f5es, tolera-se uma glicemia de at\u00e9 180. No entanto, essa meta pode ser alterada de acordo com algumas caracter\u00edsticas de cada indiv\u00edduo. Nesse sentido, o m\u00e9dico pode optar por fazer um controle mais restrito em pessoas jovens, saud\u00e1veis e/ou com pouco tempo de diabetes, buscando valores de glicemia mais baixos. Por outro lado, pode-se tolerar um controle menos restrito em pessoas idosas, com outros problemas de sa\u00fade e/ou com longo tempo de diabetes, estabelecendo metas de glicemia mais altas. Portanto, ainda que seu exame esteja dentro das metas acima, pode ser que elas n\u00e3o sejam as mais adequadas para voc\u00ea, por isso \u00e9 muito importante que voc\u00ea mantenha controle regular com um m\u00e9dico, que ir\u00e1 estabelecer o melhor tratamento para o seu caso.",
+        "persona":"technical"
+    },
+    {
+        "X":"Algu\u00e9m usa bomba de insulina? Como consegue?",
+        "y":"A bomba de infus\u00e3o de insulina \u00e9 o melhor tratamento existente hoje para o controle do diabetes tipo 1. Esse aparelho fica preso na pele e possui um sensor que monitora a quantidade de a\u00e7\u00facar no sangue durante o dia todo. A bomba de infus\u00e3o de insulina libera continuamente doses de insulina para ajustar a quantidade de a\u00e7\u00facar no sangue durante os per\u00edodos de jejum. Ele tamb\u00e9m possui bombas pontuais para ajustar a quantidade de a\u00e7\u00facar no sangue nos momentos em que h\u00e1 a ingest\u00e3o de alimento. O maior problema desse tipo de tratamento \u00e9 que ele \u00e9 muito caro, e isso o torna invi\u00e1vel para a maior parte das pessoas, j\u00e1 que ele n\u00e3o est\u00e1 dispon\u00edvel pelo SUS. Lembrando que n\u00e3o se deve utilizar esse equipamento sem a indica\u00e7\u00e3o e monitoriza\u00e7\u00e3o de um m\u00e9dico!",
+        "persona":"technical"
+    },
+    {
+        "X":"Bom dia, grupo. A glicose estava dando muito alta e os medicamentos n\u00e3o faziam efeito. Comia muita verdura e foi a\u00ed que pesquisei sobre o alface. Tem todos os tipos de a\u00e7\u00facar. Tomem cuidado.",
+        "y":"\u00c9 importante lembrar que tudo em excesso faz mal e que mais importante que comer ou deixar de comer certos alimentos, \u00e9 ter uma dieta balanceada com os nutrientes e calorias adequadas para cada pessoa. Por isso, \u00e9 ideal que se consulte com um nutricionista (que est\u00e3o dispon\u00edveis gratuitamente no SUS) que poder\u00e1 montar uma dieta ideal para as suas necessidades.",
+        "persona":"technical"
+    },
+    {
+        "X":"Como aplicar insulina corretor? \u00c9 s\u00f3 na pele?",
+        "y":"\u00c9 sempre recomend\u00e1vel realizar o rod\u00edzio do local de aplica\u00e7\u00e3o da insulina, porque repetidas aplica\u00e7\u00f5es no mesmo lugar podem causar uma condi\u00e7\u00e3o chamada lipodistrofia, em que h\u00e1 um crescimento exagerado da camada de gordura abaixo da pele naquele local. As partes do corpo normalmente recomendadas para realizar a aplica\u00e7\u00e3o da insulina s\u00e3o aquelas com maior ac\u00famulo de gordura, como abd\u00f4men, parte interna da coxa, n\u00e1degas e parte de tr\u00e1s dos bra\u00e7os. Pode-se repetir a mesma regi\u00e3o, contanto que se d\u00ea um espa\u00e7o m\u00ednimo de 2,5 cm entre as aplica\u00e7\u00f5es. Por exemplo: voc\u00ea pode aplicar insulina na barriga v\u00e1rias vezes, mas tem que deixar uma dist\u00e2ncia m\u00ednima de 2,5 cm entre os locais de aplica\u00e7\u00e3o.",
+        "persona":"technical"
+    },
+    {
+        "X":"Quando tem um anivers\u00e1rio ou casamento, o que um diab\u00e9tico pode comer?",
+        "y":"\u00c9 importante lembrar que tudo em excesso faz mal e que mais importante que comer ou deixar de comer certos alimentos, \u00e9 ter uma dieta balanceada com os nutrientes e calorias adequadas para cada pessoa. Por isso, \u00e9 ideal que se consulte com um nutricionista (que est\u00e3o dispon\u00edveis gratuitamente no SUS) que poder\u00e1 montar uma dieta ideal para as suas necessidades.",
+        "persona":"technical"
+    },
+    {
+        "X":"Meu almo\u00e7o: um pouco de arroz, chic\u00f3ria abafada, carne mo\u00edda e batata doce. De acompanhamento, salada de alface.",
+        "y":"Essa \u00e9 uma boa composi\u00e7\u00e3o, lembre-se que a salada deve preecher pelo menos metade do prato. Para uma orienta\u00e7\u00e3o mais espec\u00edfica o ideal \u00e9 que voc\u00ea se consulte com um nutricionista (que est\u00e3o dispon\u00edveis gratuitamente no SUS) pois ele poder\u00e1 montar uma dieta ideal para as suas necessidades.",
+        "persona":"simple"
+    },
+    {
+        "X":"Bom dia. Gostaria de saber alguma coisa natural para abaixar a diabetes.",
+        "y":"As chamadas medidas naturais s\u00e3o as mudan\u00e7as que fazemos no nosso estilo de vida para viver de forma mais saud\u00e1vel. Essas medidas incluem ter uma alimenta\u00e7\u00e3o balanceada, praticar exerc\u00edcios f\u00edsicos regularmente e perder peso.\nNem todas as plantas medicinais e rem\u00e9dios caseiros est\u00e3o proibidos, mas muitos n\u00e3o podem ser utilizados porque provocam efeitos colaterais e acabam n\u00e3o melhorando o diabetes. \u00c9 preciso conversar com seu m\u00e9dico sempre antes de fazer qualquer mudan\u00e7a no seu tratamento.",
+        "persona":"technical"
+    },
+    {
+        "X":"Boa noite, grupo. Algu\u00e9m sabe me dizer o que acontece se tomarmos insulina sempre no mesmo lugar? No meu caso, tomo insulina sempre na barriga, tem algum problema? Obrigada.",
+        "y":"\u00c9 sempre recomend\u00e1vel realizar o rod\u00edzio do local de aplica\u00e7\u00e3o da insulina, porque repetidas aplica\u00e7\u00f5es no mesmo lugar podem causar uma condi\u00e7\u00e3o chamada lipodistrofia, em que h\u00e1 um crescimento exagerado da camada de gordura abaixo da pele naquele local. As partes do corpo normalmente recomendadas para realizar a aplica\u00e7\u00e3o da insulina s\u00e3o aquelas com maior ac\u00famulo de gordura, como abd\u00f4men, parte interna da coxa, n\u00e1degas e parte de tr\u00e1s dos bra\u00e7os. Pode-se repetir a mesma regi\u00e3o, contanto que se d\u00ea um espa\u00e7o m\u00ednimo de 2,5 cm entre as aplica\u00e7\u00f5es. Por exemplo: voc\u00ea pode aplicar insulina na barriga v\u00e1rias vezes, mas tem que deixar uma dist\u00e2ncia m\u00ednima de 2,5 cm entre os locais de aplica\u00e7\u00e3o.",
+        "persona":"technical"
+    },
+    {
+        "X":"Almo\u00e7o de hoje: jil\u00f3 com cebola e tomate, angu, coxinha de frango e batata com carne seca e cebolinha.",
+        "y":"N\u00e3o h\u00e1 nenhuma restri\u00e7\u00e3o de alimentos para os diab\u00e9ticos, o importante \u00e9 se atentar a quantidade (principalmente de carboidratos/a\u00e7\u00facares) a ser consumida e a adotar de uma padr\u00e3o alimentar saud\u00e1vel. Para uma orienta\u00e7\u00e3o mais espec\u00edfica o ideal \u00e9 que voc\u00ea se consulte com um nutricionista (que est\u00e3o dispon\u00edveis gratuitamente no SUS) pois ele poder\u00e1 montar uma dieta ideal para as suas necessidades.",
+        "persona":"simple"
+    },
+    {
+        "X":"Podemos comer batata inglesa?",
+        "y":"Pode sim. N\u00e3o h\u00e1 nenhuma restri\u00e7\u00e3o de alimentos para os diab\u00e9ticos, o importante \u00e9 se atentar a quantidade (principalmente de carboidratos/a\u00e7\u00facares) a ser consumida e a adotar de uma padr\u00e3o alimentar saud\u00e1vel. Para uma orienta\u00e7\u00e3o mais espec\u00edfica o ideal \u00e9 que voc\u00ea se consulte com um nutricionista (que est\u00e3o dispon\u00edveis gratuitamente no SUS) pois ele poder\u00e1 montar uma dieta ideal para as suas necessidades.",
+        "persona":"simple"
+    },
+    {
+        "X":"Boa noite, amigos e amigas! Depois de uma janta, neste frio, vou de chimarr\u00e3o quentinho.",
+        "y":"Boa ideia! Ch\u00e1s s\u00e3o uma \u00f3tima alternativa aos sucos e refrigerantes, mas lembre-se: ter uma dieta equilibrada em nutrientes e calorias \u00e9 essencial para o controle do diabetes.",
+        "persona":"simple"
+    },
+    {
+        "X":"Estou com a glicose 143 em jejum, \u00e9 bom ou ruim? Bom dia pra todos.",
+        "y":"No tratamento da pessoa com diabetes, os valores ideais de glicose no sangue (glicemia) dependem de v\u00e1rios fatores, como a hora do dia em que a medida \u00e9 feita e quando foi consumida a \u00faltima refei\u00e7\u00e3o. De modo geral, em jejum e antes das refei\u00e7\u00f5es, a glicemia alvo est\u00e1 entre 80 e 130. Por outro lado, at\u00e9 2 horas depois das refei\u00e7\u00f5es, tolera-se uma glicemia de at\u00e9 180. No entanto, essa meta pode ser alterada de acordo com algumas caracter\u00edsticas de cada indiv\u00edduo. Nesse sentido, o m\u00e9dico pode optar por fazer um controle mais restrito em pessoas jovens, saud\u00e1veis e/ou com pouco tempo de diabetes, buscando valores de glicemia mais baixos. Por outro lado, pode-se tolerar um controle menos restrito em pessoas idosas, com outros problemas de sa\u00fade e/ou com longo tempo de diabetes, estabelecendo metas de glicemia mais altas. Portanto, ainda que seu exame esteja dentro das metas acima, pode ser que elas n\u00e3o sejam as mais adequadas para voc\u00ea, por isso \u00e9 muito importante que voc\u00ea mantenha controle regular com um m\u00e9dico, que ir\u00e1 estabelecer o melhor tratamento para o seu caso.",
+        "persona":"technical"
+    },
+    {
+        "X":"Eu tamb\u00e9m estava triste, pois estava tomando Glifage de 800 mg e a glicemia sempre estava acima de 280\u2013300. Indicaram o Diamicron e, gra\u00e7as a Deus, estou com 99 a 150.",
+        "y":"\u00c9 uma excelente not\u00edcia! Lembre-se de que esses bons resultados precisam ser mantidos, portanto \u00e9 necess\u00e1rio continuar praticando os bons h\u00e1bitos de vida. Mantenha uma dieta equilibrada, pratique exerc\u00edcios f\u00edsicos regularmente, tome os rem\u00e9dios nas doses prescritas e nos hor\u00e1rios corretos e consulte o seu m\u00e9dico periodicamente.",
+        "persona":"technical"
+    },
+    {
+        "X":"Meu Deus, eu estou indisposta hoje, estou com um barulho na minha cabe\u00e7a e a minha press\u00e3o est\u00e1 em 9. Eu estou t\u00e3o mal que s\u00f3 Deus na minha vida.",
+        "y":"Esses n\u00e3o s\u00e3o sintomas t\u00edpicos de diabetes. No entanto, n\u00e3o devem ser ignorados, pois podem indicar algum outro problema de sa\u00fade! Portanto, \u00e9 importante que se procure um m\u00e9dico.\nAgora, caso voc\u00ea esteja suando muito, tendo muita fome, sofrendo com tremedeiras, fraqueza, palpita\u00e7\u00e3o, cora\u00e7\u00e3o batendo acelerado, ansiedade/agita\u00e7\u00e3o ou confus\u00e3o mental pode ser que a quantidade de a\u00e7\u00facar no seu sangue esteja muito baixa, e isso pode ser grave.",
+        "persona":"technical"
+    },
+    {
+        "X":"Bom dia. Gra\u00e7as a Deus, glicose em jejum est\u00e1 97.",
+        "y":"\u00c9 uma excelente not\u00edcia! Lembre-se de que esses bons resultados precisam ser mantidos, portanto \u00e9 necess\u00e1rio continuar praticando os bons h\u00e1bitos de vida. Mantenha uma dieta equilibrada, pratique exerc\u00edcios f\u00edsicos regularmente, tome os rem\u00e9dios nas doses prescritas e nos hor\u00e1rios corretos e se consulte com o seu m\u00e9dico periodicamente.",
+        "persona":"technical"
+    },
+    {
+        "X":"Minha diabetes, o que voc\u00eas acham? Em jejum: 110; no almo\u00e7o: 101; no jantar: 120.",
+        "y":"No tratamento da pessoa com diabetes, os valores ideais de glicose no sangue (glicemia) dependem de v\u00e1rios fatores, como a hora do dia em que a medida \u00e9 feita e quando foi consumida a \u00faltima refei\u00e7\u00e3o. De modo geral, em jejum e antes das refei\u00e7\u00f5es, a glicemia alvo est\u00e1 entre 80 e 130. Por outro lado, at\u00e9 2 horas depois das refei\u00e7\u00f5es, tolera-se uma glicemia de at\u00e9 180. No entanto, essa meta pode ser alterada de acordo com algumas caracter\u00edsticas de cada indiv\u00edduo. Nesse sentido, o m\u00e9dico pode optar por fazer um controle mais restrito em pessoas jovens, saud\u00e1veis e/ou com pouco tempo de diabetes, buscando valores de glicemia mais baixos. Por outro lado, pode-se tolerar um controle menos restrito em pessoas idosas, com outros problemas de sa\u00fade e/ou com longo tempo de diabetes, estabelecendo metas de glicemia mais altas. Portanto, ainda que seu exame esteja dentro das metas acima, pode ser que elas n\u00e3o sejam as mais adequadas para voc\u00ea, por isso \u00e9 muito importante que voc\u00ea mantenha controle regular com um m\u00e9dico, que ir\u00e1 estabelecer o melhor tratamento para o seu caso.",
+        "persona":"technical"
+    },
+    {
+        "X":"Boa noite, estou precisando de um conselho. Sou diab\u00e9tica tipo 2 e ando sofrendo, h\u00e1 v\u00e1rios dias,  com dor no dente; pra ser mais clara, um canal quebrou e as dores s\u00e3o quase insuport\u00e1veis. Consegui um atendimento para amanh\u00e3, mas a dentista n\u00e3o sabe que sou diab\u00e9tica. Minha grande d\u00favida \u00e9 dizer ou n\u00e3o, alguns que j\u00e1 procurei n\u00e3o quiseram me atender, por ser perigoso. E eu n\u00e3o consigo encontrar um dentista especialistas em diabetes.",
+        "y":"Alguns procedimentos m\u00e9dicos exigem maiores cuidados para serem realizados em pessoas que sofrem de diabetes e alguns nem podem ser realizados nessas pessoas. Por isso, \u00e9 muito importante que qualquer profissional de sa\u00fade que te atenda - incluindo sua dentista - saiba que voc\u00ea tem diabetes. Se a sua dentista n\u00e3o se sente confort\u00e1vel para te atender, poder\u00e1 indicar outro profissional capacitado. Omitir a informa\u00e7\u00e3o de que voc\u00ea \u00e9 diab\u00e9tica pode ser perigoso.",
+        "persona":"technical"
+    },
+    {
+        "X":"Boa tarde. Tomo rem\u00e9dio para dormir e como maracuj\u00e1 e n\u00e3o consigo dormir cedo. O que fazer?",
+        "y":"A falta de sono pode ter muitas causas. N\u00e3o \u00e9 poss\u00edvel sugerir um tratamento levando em conta apenas o que voc\u00ea nos contou. Sugerimos que voc\u00ea procure um m\u00e9dico para que ele possa avaliar a sua situa\u00e7\u00e3o.",
+        "persona":"technical"
+    },
+    {
+        "X":"Banana prata pode?",
+        "y":"Pode sim. N\u00e3o h\u00e1 nenhuma restri\u00e7\u00e3o de alimentos para os diab\u00e9ticos, o importante \u00e9 se atentar a quantidade (principalmente de carboidratos/a\u00e7\u00facares) a ser consumida e a adotar de uma padr\u00e3o alimentar saud\u00e1vel. Para uma orienta\u00e7\u00e3o mais espec\u00edfica o ideal \u00e9 que voc\u00ea se consulte com um nutricionista (que est\u00e3o dispon\u00edveis gratuitamente no SUS) pois ele poder\u00e1 montar uma dieta ideal para as suas necessidades.",
+        "persona":"simple"
+    },
+    {
+        "X":"Algu\u00e9m aqui tem problemas nos rins por causa do diabetes?",
+        "y":"Uma complica\u00e7\u00e3o comum do diabetes \u00e9 uma doen\u00e7a nos rins chamada \"nefropatia diab\u00e9tica\". Essa doen\u00e7a costuma avan\u00e7ar lentamente, mas pode ficar muito grave. Para prevenir essa complica\u00e7\u00e3o, \u00e9 importante manter a quantidade de a\u00e7\u00facar no sangue dentro dos limites adequados para cada pessoa e controlar o diabetes com o aux\u00edlio de um m\u00e9dico.",
+        "persona":"technical"
+    },
+    {
+        "X":"Glicose 2 horas ap\u00f3s o almo\u00e7o: 79.",
+        "y":"O valor ideal da glicemia (quantidade de a\u00e7\u00facar no sangue) a ser alcan\u00e7ada \u00e9 diferente para cada pessoa. As metas de glicemia s\u00e3o feitas levando-se em considera\u00e7\u00e3o a condi\u00e7\u00e3o geral de cada um. Dessa forma, s\u00f3 \u00e9 poss\u00edvel saber se a glicemia de uma pessoa est\u00e1 nos n\u00edveis adequados ap\u00f3s ser realizada uma avalia\u00e7\u00e3o geral da sa\u00fade e da hist\u00f3ria m\u00e9dica dessa pessoa. Por isso, \u00e9 importante que voc\u00ea consulte com seu m\u00e9dico e conte o que est\u00e1 acontecendo. De maneira alguma deve-se mudar o tratamento sem consult\u00e1-lo.\n\u00c9 importante lembrar que quando a glicemia cai para n\u00edveis abaixos de 70 ocorre a hipoglicemia. Na hipoglicemia os sintomas mais comuns s\u00e3o: suor, fome, tremedeira, fraqueza, palpita\u00e7\u00e3o, aumento da frequ\u00eancia card\u00edaca (cora\u00e7\u00e3o batendo mais r\u00e1pido), ansiedade/agita\u00e7\u00e3o, confus\u00e3o mental e cefal\u00e9ia (dor de cabe\u00e7a).",
+        "persona":"technical"
+    },
+    {
+        "X":"Gente, diab\u00e9tico pode comer amendoim?",
+        "y":"O amendoim possui fibras de baixo \u00edndice glic\u00eamico (o a\u00e7\u00facar presente nele \u00e9 absorvido mais lentamente) e isso \u00e9 algo positivo para quem tem diabetes. Mas tamb\u00e9m \u00e9 importante lembrar que tudo em excesso faz mal e que mais importante que comer ou deixar de comer certos alimentos, \u00e9 ter uma dieta balanceada com os nutrientes e calorias adequadas para cada pessoa. Por isso, \u00e9 ideal que se consulte com um nutricionista (que est\u00e3o dispon\u00edveis gratuitamente no SUS) que poder\u00e1 montar uma dieta ideal para as suas necessidades.",
+        "persona":"technical"
+    },
+    {
+        "X":"Boa tarde, minha glicose depois do almo\u00e7o est\u00e1 boa ou ruim? (95)",
+        "y":"\nNo tratamento da pessoa com diabetes, os valores ideais de glicose no sangue (glicemia) dependem de v\u00e1rios fatores, como a hora do dia em que a medida \u00e9 feita e quando foi consumida a \u00faltima refei\u00e7\u00e3o. De modo geral, em jejum e antes das refei\u00e7\u00f5es, a glicemia alvo est\u00e1 entre 80 e 130. Por outro lado, at\u00e9 2 horas depois das refei\u00e7\u00f5es, tolera-se uma glicemia de at\u00e9 180. No entanto, essa meta pode ser alterada de acordo com algumas caracter\u00edsticas de cada indiv\u00edduo. Nesse sentido, o m\u00e9dico pode optar por fazer um controle mais restrito em pessoas jovens, saud\u00e1veis e/ou com pouco tempo de diabetes, buscando valores de glicemia mais baixos. Por outro lado, pode-se tolerar um controle menos restrito em pessoas idosas, com outros problemas de sa\u00fade e/ou com longo tempo de diabetes, estabelecendo metas de glicemia mais altas. Portanto, ainda que seu exame esteja dentro das metas acima, pode ser que elas n\u00e3o sejam as mais adequadas para voc\u00ea, por isso \u00e9 muito importante que voc\u00ea mantenha controle regular com um m\u00e9dico, que ir\u00e1 estabelecer o melhor tratamento para o seu caso.",
+        "persona":"technical"
+    },
+    {
+        "X":"Bom dia, meus amigos. N\u00f3s, diab\u00e9ticos, podemos comer pipoca?",
+        "y":"A pipoca \u00e9 um alimento com a presen\u00e7a de fibras e n\u00e3o s\u00f3 carboidratos, por isso, ela pode ser consumida. Por\u00e9m, se atente \u00e0 quantidade e evite o uso excessivo de \u00f3leo/manteiga, sal e prefira a pipoca caseira. Para uma orienta\u00e7\u00e3o mais espec\u00edfica o ideal \u00e9 que voc\u00ea se consulte com um nutricionista (que est\u00e3o dispon\u00edveis gratuitamente no SUS) pois ele poder\u00e1 montar uma dieta ideal para as suas necessidades.",
+        "persona":"simple"
+    },
+    {
+        "X":"Queria saber se pode comer coisas diet. Exemplos: doces, geleias, etc.",
+        "y":"Alimentos diet possuem menos calorias que alimentos normais, e isso pode ser bom para quem precisa controlar o diabetes. No entanto, \u00e9 necess\u00e1ria a ajuda de um m\u00e9dico ou de um nutricionista para ver quais alimentos podem ser consumidos e quais devem ser deixados de lado. Al\u00e9m da quantidade de calorias de cada alimento, h\u00e1 outros fatores que devem ser levados em conta. Tamb\u00e9m \u00e9 importante lembrar que tudo em excesso faz mal e que mais importante que comer ou deixar de comer certos alimentos, \u00e9 ter uma dieta balanceada com os nutrientes e calorias adequadas para cada pessoa. Por isso, \u00e9 ideal que se consulte com um nutricionista (que est\u00e3o dispon\u00edveis gratuitamente no SUS) que poder\u00e1 montar uma dieta ideal para as suas necessidades.",
+        "persona":"technical"
+    },
+    {
+        "X":"Como as fitas para medir diabetes s\u00e3o caras :/ :/ Com 50 est\u00e1 R$ 100,00. O SUS s\u00f3 fornece pra quem usa insulina.",
+        "y":"Para pegar as fitas de medi\u00e7\u00e3o da glicemia, basta levar uma receita m\u00e9dica com o pedido. Lembre-se que essa receita deve ser recente e conter o carimbo do m\u00e9dico. No entanto, \u00e9 importante lembrar que pessoas com diabetes do tipo 2, e que n\u00e3o fazem uso de insulina, n\u00e3o t\u00eam direito \u00e0s fitas. Se for o seu caso, n\u00e3o precisa se preocupar. O uso do glicos\u00edmetro s\u00f3 \u00e9 necess\u00e1rio para quem usa insulina. Se voc\u00ea n\u00e3o precisa tomar insulina, n\u00e3o \u00e9 necess\u00e1rio o uso dessas fitas.",
+        "persona":"technical"
+    },
+    {
+        "X":"Diab\u00e9ticos do tipo 2 podem consumir algum tipo de a\u00e7\u00facar ou ado\u00e7ante?",
+        "y":"Podem sim! Mas \u00e9 importante lembrar que tudo em excesso faz mal e que mais importante que comer ou deixar de comer certos alimentos, \u00e9 ter uma dieta balanceada com os nutrientes e calorias adequadas para cada pessoa. Por isso, \u00e9 ideal que se consulte com um nutricionista (que est\u00e3o dispon\u00edveis gratuitamente no SUS) que poder\u00e1 montar uma dieta ideal para as suas necessidades.\nQuanto aos ado\u00e7antes, a sucralose, o aspartame e a stevia s\u00e3o ado\u00e7antes que n\u00e3o possuem calorias, ent\u00e3o n\u00e3o aumentam a quantidade de a\u00e7\u00facar no sangue. Logo, eles podem ser utilizados por pessoas com diabetes. No entanto, \u00e9 preciso lembrar que seu uso deve ser feito com modera\u00e7\u00e3o.",
+        "persona":"technical"
+    },
+    {
+        "X":"Estou com a diabetes muito alta, tenho doen\u00e7a renal cr\u00f4nica, fa\u00e7o regime e caminhada e tomo insulina. J\u00e1 passei para o m\u00e9dico e ele aumentou a dose da insulina e nada de abaixar. Estou tomando pau-tenente, mas sem resultado. N\u00e3o sei o que fazer. Hoje pela manh\u00e3 medi 289.",
+        "y":"Lidar com uma doen\u00e7a cr\u00f4nica pode ser muito dif\u00edcil e doloroso. Por\u00e9m, esse processo tamb\u00e9m pode ser visto como uma nova chance de se tratar de uma forma mais carinhosa e saud\u00e1vel! As mudan\u00e7as de estilo de vida (alimenta\u00e7\u00e3o saud\u00e1vel, pr\u00e1tica de exerc\u00edcios f\u00edsicos, perda de peso...) s\u00e3o uma parte fundamental do tratamento de qualquer pessoa com diabetes. Para al\u00e9m disso, por\u00e9m, elas promovem uma mudan\u00e7a em toda a forma de se relacionar com o corpo. D\u00ea uma chance \u00e0 sa\u00fade, \u00e9 poss\u00edvel controlar o diabetes!",
+        "persona":"technical"
+    },
+    {
+        "X":"Farinha de mandioca faz mal pra diabetes?",
+        "y":"A farinha de mandioca \u00e9 um alimento com alto valor de calorias \u00edndice glic\u00eamico, e isso significa que seu consumo contribui para r\u00e1pido aumento da glicemia (concentra\u00e7\u00e3o de a\u00e7\u00facar no sangue), demandando mais insulina. Quando consumida de maneira n\u00e3o rotineira, e dentro de um plano alimentar adequado, n\u00e3o haver\u00e1 preju\u00edzos \u00e0 sa\u00fade, mas outras op\u00e7\u00f5es menos refinadas e mais ricas em fibras, como a aveia ou a farinha de arroz podem ser inclu\u00eddas mais facilmente no dia a dia. Busque sempre op\u00e7\u00f5es menos processadas e mais ricas em fibras, e lembre-se que ter uma dieta equilibrada em nutrientes e calorias \u00e9 o essencial para o controle do diabetes. Procure um nutricionista (dispon\u00edvel gratuitamente no SUS) para montar um plano alimentar que seja ideal para voc\u00ea e suas necessidades.",
+        "persona":"simple"
+    },
+    {
+        "X":"Pessoal, estou arrotando muito e liberando tantos gases que at\u00e9 a parceira n\u00e3o quer transar. S\u00e3o efeitos ou sintomas de diabetes?",
+        "y":"Soltar muitos gases pode ser normal para pessoas que se alimentam com alimentos ricos em fibras, que s\u00e3o alimentos saud\u00e1veis e recomendados. Al\u00e9m disso, o uso da metformina tamb\u00e9m pode provocar a soltura de gases durante os primeiros meses de uso.",
+        "persona":"technical"
+    },
+    {
+        "X":"O que comer pra diminuir a diabetes?",
+        "y":"O tratamento do diabetes \u00e9 feito a partir de um diagn\u00f3stico m\u00e9dico, com utiliza\u00e7\u00e3o de medicamentos e com a mudan\u00e7a de h\u00e1bitos de vida, com aux\u00edlio de um nutricionista e outros profissionais de sa\u00fade. N\u00e3o existe nenhum alimento com a capacidade de abaixar o curar o diabetes. Para uma orienta\u00e7\u00e3o mais espec\u00edfica o ideal \u00e9 que voc\u00ea se consulte com um nutricionista (que est\u00e3o dispon\u00edveis gratuitamente no SUS) pois ele poder\u00e1 montar uma dieta ideal para as suas necessidades.",
+        "persona":"simple"
+    },
+    {
+        "X":"Diab\u00e9ticos podem comer batata frita?",
+        "y":"A batata frita \u00e9 um alimento para ser consumido as vezes e com modera\u00e7\u00e3o, al\u00e9m de ter uma quantidade elevada de gordura, o excesso \u00e9 prejudicial, j\u00e1 que \u00e9 um alimento fonte de amido (carboidrato). Para uma orienta\u00e7\u00e3o mais espec\u00edfica o ideal \u00e9 que voc\u00ea se consulte com um nutricionista (que est\u00e3o dispon\u00edveis gratuitamente no SUS) pois ele poder\u00e1 montar uma dieta ideal para as suas necessidades.",
+        "persona":"simple"
+    },
+    {
+        "X":"Antes do caf\u00e9 estava 126, 2 horas ap\u00f3s, este resultado. O que voc\u00eas acham? Por favor, algu\u00e9m pode me responder? Grata",
+        "y":"No tratamento da pessoa com diabetes, os valores ideais de glicose no sangue (glicemia) dependem de v\u00e1rios fatores, como a hora do dia em que a medida \u00e9 feita e quando foi consumida a \u00faltima refei\u00e7\u00e3o. De modo geral, em jejum e antes das refei\u00e7\u00f5es, a glicemia alvo est\u00e1 entre 80 e 130. Por outro lado, at\u00e9 2 horas depois das refei\u00e7\u00f5es, tolera-se uma glicemia de at\u00e9 180. No entanto, essa meta pode ser alterada de acordo com algumas caracter\u00edsticas de cada indiv\u00edduo. Nesse sentido, o m\u00e9dico pode optar por fazer um controle mais restrito em pessoas jovens, saud\u00e1veis e/ou com pouco tempo de diabetes, buscando valores de glicemia mais baixos. Por outro lado, pode-se tolerar um controle menos restrito em pessoas idosas, com outros problemas de sa\u00fade e/ou com longo tempo de diabetes, estabelecendo metas de glicemia mais altas. Portanto, ainda que seu exame esteja dentro das metas acima, pode ser que elas n\u00e3o sejam as mais adequadas para voc\u00ea, por isso \u00e9 muito importante que voc\u00ea mantenha controle regular com um m\u00e9dico, que ir\u00e1 estabelecer o melhor tratamento para o seu caso.",
+        "persona":"technical"
+    },
+    {
+        "X":"Ser\u00e1 que podemos tomar o Ivermectina?",
+        "y":"A ivermectina n\u00e3o \u00e9 utilizada no tratamento do diabetes. Assim como qualquer outro rem\u00e9dio, ela possui indica\u00e7\u00f5es e contra-indica\u00e7\u00f5es bem definidas. O seu uso deve ser prescrito por um profissional qualificado e caso se tenha qualquer d\u00favida consulte o seu m\u00e9dico.",
+        "persona":"technical"
+    },
+    {
+        "X":"Existe algum risco para o diab\u00e9tico ao tomar a vacina? N\u00e3o entendi a necessidade da prescri\u00e7\u00e3o m\u00e9dica. Fiquei preocupado.",
+        "y":"N\u00e3o existe contraindica\u00e7\u00e3o para a vacina\u00e7\u00e3o em pessoas com diabetes. Pelo contr\u00e1rio, \u00e9 muito importante que o portador de diabetes tome todas as vacinas necess\u00e1rias, j\u00e1 que o diabetes deixa as pessoas mais vulner\u00e1veis \u00e0 infec\u00e7\u00f5es. Al\u00e9m disso, \u00e9 importante que seu m\u00e9dico confira seu cart\u00e3o vacinal, pois pode ser que seja necess\u00e1rio tomar doses de refor\u00e7o ou tomar doses de vacinas que n\u00e3o foram tomadas na inf\u00e2ncia.",
+        "persona":"technical"
+    },
+    {
+        "X":"Algumas de voc\u00eas j\u00e1 tiveram machucado na regi\u00e3o \u00edntima por causa do diabetes? O que usaram?",
+        "y":"O diabetes pode aumentar o risco de aparecer infec\u00e7\u00f5es nos \u00f3rg\u00e3os sexuais (as infec\u00e7\u00f5es genitais), principalmente a candid\u00edase. Nesse caso, \u00e9 importante voc\u00ea se consultar com seu m\u00e9dico, pois existem v\u00e1rios tipos de infec\u00e7\u00f5es genitais com v\u00e1rias op\u00e7\u00f5es de tratamento, n\u00e3o sendo poss\u00edvel indicar um rem\u00e9dio por aqui.",
+        "persona":"technical"
+    },
+    {
+        "X":"O uso de aranto \u00e9 contra indicado pra diab\u00e9tico?",
+        "y":"Nem todos as plantas medicinais ou rem\u00e9dios caseiros est\u00e3o proibidos, mas muitos n\u00e3o podem ser utilizados, porque provocam efeitos colaterais. Al\u00e9m disso, os rem\u00e9dios caseiros n\u00e3o melhoram o diabetes. \u00c9 preciso sempre conversar com o seu m\u00e9dico antes de fazer qualquer mudan\u00e7a no seu tratamento.",
+        "persona":"technical"
+    },
+    {
+        "X":"Diab\u00e9tico pode doar sangue?",
+        "y":"A pessoa com diabetes pode doar sangue se estiver controlando a doen\u00e7a apenas com dieta ou rem\u00e9dios que sejam hipoglicemiantes orais e que n\u00e3o tenha problemas nos vasos sangu\u00edneos. Caso essa pessoa tenha utilizado insulina uma \u00fanica vez, n\u00e3o poder\u00e1 doar sangue.",
+        "persona":"technical"
+    },
+    {
+        "X":"Boa tarde, meu povo. Algu\u00e9m pode me dizer se diab\u00e9tico pode comer p\u00e3o de queijo?",
+        "y":"Pode sim, o Guia Alimentar Para a Popula\u00e7\u00e3o Brasileira traz como um dos exemplos de caf\u00e9 da manh\u00e3 a combina\u00e7\u00e3o de p\u00e3o de queijo, caf\u00e9 com leite e mam\u00e3o. Se atente \u00e0 quantidade a ser consumida, pois todos os exageros s\u00e3o prejudiciais.  Para uma orienta\u00e7\u00e3o mais espec\u00edfica o ideal \u00e9 que voc\u00ea se consulte com um nutricionista (que est\u00e3o dispon\u00edveis gratuitamente no SUS) pois ele poder\u00e1 montar uma dieta ideal para as suas necessidades.",
+        "persona":"simple"
+    },
+    {
+        "X":"Pessoal, voc\u00eas conhecem o Sylocimol?",
+        "y":"N\u00e3o existem estudos a respeito da \u00e1gua que o Sylocimol produz. Com toda certeza ela n\u00e3o \u00e9 efetiva para controlar o diabetes e, portanto, se voc\u00ea possuir diabetes n\u00e3o deve parar de seguir as orienta\u00e7\u00f5es do seu m\u00e9dico para beber essa \u00e1gua. Al\u00e9m disso, o ideal \u00e9 que voc\u00ea beba \u00e1gua filtrada.",
+        "persona":"technical"
+    },
+    {
+        "X":"Gente, muito se fala do arroz, mas o que dizer dos flocos de arroz? Voc\u00eas sabe me falar se faz mal?",
+        "y":"Os flocos de arroz tem uma quantidade elevada de carboidratos por uma pequena por\u00e7\u00e3o, com isso, o seu consumo deve ser moderado. Para uma orienta\u00e7\u00e3o mais espec\u00edfica o ideal \u00e9 que voc\u00ea se consulte com um nutricionista (que est\u00e3o dispon\u00edveis gratuitamente no SUS) pois ele poder\u00e1 montar uma dieta ideal para as suas necessidades.",
+        "persona":"simple"
+    },
+    {
+        "X":"Bom dia, povo. Gostaria de saber se algu\u00e9m do grupo j\u00e1 tomou lim\u00e3o com a\u00e7afr\u00e3o de manh\u00e3, em jejum, para abaixar a diabetes. Me conta se a experi\u00eancia foi boa.",
+        "y":"O consumo de lim\u00e3o com a\u00e7afr\u00e3o n\u00e3o causa nenhum mal, mas tamb\u00e9m n\u00e3o traz nenhum benef\u00edcio no sentido de reduzir a glicemia (quantidade de a\u00e7\u00facar no sangue). Al\u00e9m disso, lembre-se que para manter a glicemia sob controle \u00e9 importante seguir a dieta recomendada por um profissional capactidado, realizar exerc\u00edcios f\u00edsicos regularmente, aprender a lidar com o estresse e utilizar os rem\u00e9dios conforme prescrito pelo m\u00e9dico.",
+        "persona":"technical"
+    },
+    {
+        "X":"Bom dia. Postei aqui que meu m\u00e9dico trocou a insulina normal para a insulina de caneta. Algu\u00e9m usa Glargina (ultra lenta) e Aspart (ultra r\u00e1pida)?",
+        "y":"A insulina Glargina \u00e9 uma op\u00e7\u00e3o interessante para casos de dif\u00edcil controle ou para quem sofre com hipoglicemias frequentes. Ela tem cerca de 24h de a\u00e7\u00e3o e mant\u00e9m normais os n\u00edveis de insulina durante os per\u00edodos de jejum. \nA insulina Aspart tamb\u00e9m \u00e9 uma op\u00e7\u00e3o interessante para casos de dif\u00edcil controle ou para quem sofre com hipoglicemias frequentes. Ela tem in\u00edcio de a\u00e7\u00e3o em cerca de 5 min, podendo ser administrada logo antes das refei\u00e7\u00f5es.",
+        "persona":"technical"
+    },
+    {
+        "X":"Oi, boa tarde. Minha m\u00e3e \u00e9 diab\u00e9tica tipo 2 e ela n\u00e3o anda por causa de artrose. Gostaria de dicas de alimenta\u00e7\u00e3o para a janta, se puderem me passar receitas, agrade\u00e7o muito.",
+        "y":"O ideal \u00e9 receber orienta\u00e7\u00f5es espec\u00edficas de um nutricionista, mas de modo geral, n\u00e3o h\u00e1 alimentos proibidos. Deve-se preferir os alimentos in natura e minimamente processados como: as frutas, legumes, hortali\u00e7as, carne, peixes, ovos, leite, iogurte, sementes, farinhas. Consumir com modera\u00e7\u00e3o os processados, aqui entram os p\u00e3es, bolos, sardinha, gel\u00e9ia, queijos, conservas e enlatados. E evitar os ultraprocessados como: biscoitos recheados, refrigerante, produtos congelados prontos para aquecimento, cereais a\u00e7ucarados, refrescos, suco em p\u00f3, margarina, salsichas e presunto. N\u00e3o se esque\u00e7a que o a\u00e7\u00facar deve ser consumido com modera\u00e7\u00e3o, n\u00e3o sendo adicionado em prepara\u00e7\u00f5es como sucos, vitaminas, caf\u00e9s e ch\u00e1s. Lembre-se tamb\u00e9m de beber \u00e1gua ao longo do dia. Al\u00e9m disso, o sal deve ser consumido com modera\u00e7\u00e3o e as bebidas alco\u00f3licas devem ser evitadas. Voc\u00ea pode obter mais informa\u00e7\u00f5es no Guia Alimentar Para a Popula\u00e7\u00e3o Brasileira, dispon\u00edvel gratuitamente para download (https://bvsms.saude.gov.br/bvs/publicacoes/guia_alimentar_populacao_brasileira_2ed.pdf).Para uma orienta\u00e7\u00e3o mais espec\u00edfica o ideal \u00e9 que voc\u00ea se consulte com um nutricionista (que est\u00e3o dispon\u00edveis gratuitamente no SUS) pois ele poder\u00e1 montar uma dieta ideal para as suas necessidades.",
+        "persona":"simple"
+    },
+    {
+        "X":"Quem est\u00e1, a essa hora, depois de uma caminhada, abaixo de 120, d\u00e1 um gl\u00f3ria a Deus!",
+        "y":"\u00c9 uma excelente not\u00edcia! Lembre-se de que esses bons resultados precisam ser mantidos, portanto \u00e9 necess\u00e1rio continuar praticando os bons h\u00e1bitos de vida. Mantenha uma dieta equilibrada, pratique exerc\u00edcios f\u00edsicos regularmente, tome os rem\u00e9dios nas doses prescritas e nos hor\u00e1rios corretos e consulte o seu m\u00e9dico periodicamente.",
+        "persona":"technical"
+    },
+    {
+        "X":"O que \u00e9 bom para baixar a glicose, fora os rem\u00e9dios?",
+        "y":"Para o tratamento do diabetes \u00e9 importante ter uma dieta saud\u00e1vel, praticar exerc\u00edcios f\u00edsicos regularmente e tomar os rem\u00e9dios prescritos pelo m\u00e9dico. O objetivo \u00e9 abaixar devagar a quantidade de a\u00e7\u00facar no sangue e manter essa quantidade equilibrada durante todo o dia. Quando uma pessoa sente os sintomas do diabetes, isso quer dizer que a quantidade de a\u00e7\u00facar no sangue est\u00e1 muito alta. Nesse caso, pode ser necess\u00e1rio um tratamento para abaixar rapidamente o a\u00e7\u00facar do sangue.",
+        "persona":"technical"
+    },
+    {
+        "X":"E o que \u00e9 uma dieta saud\u00e1vel?",
+        "y":"O ideal \u00e9 receber orienta\u00e7\u00f5es espec\u00edficas de um nutricionista, mas de modo geral, n\u00e3o h\u00e1 alimentos proibidos. Deve-se preferir os alimentos in natura e minimamente processados como: as frutas, legumes, hortali\u00e7as, carne, peixes, ovos, leite, iogurte, sementes, farinhas. Consumir com modera\u00e7\u00e3o os processados, aqui entram os p\u00e3es, bolos, sardinha, gel\u00e9ia, queijos, conservas e enlatados. E evitar os ultraprocessados como: biscoitos recheados, refrigerante, produtos congelados prontos para aquecimento, cereais a\u00e7ucarados, refrescos, suco em p\u00f3, margarina, salsichas e presunto. N\u00e3o se esque\u00e7a que o a\u00e7\u00facar deve ser consumido com modera\u00e7\u00e3o, n\u00e3o sendo adicionado em prepara\u00e7\u00f5es como sucos, vitaminas, caf\u00e9s e ch\u00e1s. Lembre-se tamb\u00e9m de beber \u00e1gua ao longo do dia. Al\u00e9m disso, o sal deve ser consumido com modera\u00e7\u00e3o e as bebidas alco\u00f3licas devem ser evitadas. Voc\u00ea pode obter mais informa\u00e7\u00f5es no Guia Alimentar Para a Popula\u00e7\u00e3o Brasileira, dispon\u00edvel gratuitamente para download (https://bvsms.saude.gov.br/bvs/publicacoes/guia_alimentar_populacao_brasileira_2ed.pdf).Para uma orienta\u00e7\u00e3o mais espec\u00edfica o ideal \u00e9 que voc\u00ea se consulte com um nutricionista (que est\u00e3o dispon\u00edveis gratuitamente no SUS) pois ele poder\u00e1 montar uma dieta ideal para as suas necessidades.",
+        "persona":"simple"
+    },
+    {
+        "X":"Boa noite, estou com neuropatia perif\u00e9rica. J\u00e1 fui ao neurologista e ele me passou Gabapentina e algumas vitaminas, mas n\u00e3o resolveu o meu caso. Estou h\u00e1 sete meses esperando para fazer um exame e nada. Hoje estou sofrendo dia e noite com a doen\u00e7a, os p\u00e9s incham e as pernas; de dia fica ardendo e \u00e0 noite piora. N\u00e3o tenho rem\u00e9dio pra colocar, nem alguma pomada, e nem mesmo o exame posso fazer, ainda estou na espera. Em suma, estou com os p\u00e9s e pernas doloridas diariamente e sem poder fazer nada.",
+        "y":"O primeiro passo para tratar a neuropatia \u00e9 controlar a glicemia (quantidade de a\u00e7\u00facar no sangue) e impedir o avan\u00e7o dessa complica\u00e7\u00e3o. \u00c9 preciso tamb\u00e9m ter muito cuidado com os p\u00e9s: n\u00e3o ficar descal\u00e7o, evitar sapatos de bico apertado, utilizar t\u00eanis confort\u00e1veis e frequentemente dar uma boa olhada no p\u00e9 todo para ver se h\u00e1 alguma ferida ou infec\u00e7\u00e3o. ",
+        "persona":"technical"
+    },
+    {
+        "X":"Pessoal, algu\u00e9m est\u00e1 com a vista meio turva tamb\u00e9m e pernas formigando muito? A vista cansa, andar cansa. Eu estou orando demais para Deus me curar, e se n\u00e3o curar logo, me livrar de uma complica\u00e7\u00e3o. Sou diab\u00e9tica h\u00e1 8 anos, desde os 11 anos de idade, e agora tenho 19. Fiquei uns 7 anos sem me cuidar, agora esse ano que estou controlando, lutando. Me d\u00eaem uma opini\u00e3o boa.",
+        "y":"Lidar com uma doen\u00e7a cr\u00f4nica pode ser muito dif\u00edcil e doloroso. Por\u00e9m, esse processo tamb\u00e9m pode ser visto como uma nova chance de se tratar de uma forma mais carinhosa e saud\u00e1vel! O formigamento nas pernas e a vis\u00e3o turva podem ser causadas por complica\u00e7\u00f5es cr\u00f4nicas do diabetes chamadas de neuropatia e retinopatia, respectivamente. \u00c9 muito importante que voc\u00ea fa\u00e7a acompanhamento regulares com seu m\u00e9dico, fa\u00e7a o uso correto da medica\u00e7\u00e3o prescrita, siga uma dieta balanceada e equilibrada e fa\u00e7a atividades f\u00edsicas regularmente. D\u00ea uma chance \u00e0 sa\u00fade, \u00e9 poss\u00edvel controlar o diabetes! Al\u00e9m disso, est\u00e3o dispon\u00edveis gratuitamente pelo SUS profissionais como psic\u00f3logos e nutricionistas que tamb\u00e9m podem auxiliar nesse processo!",
+        "persona":"technical"
+    },
+    {
+        "X":"Hoje passei no endocrinologista, ele viu os exames e n\u00e3o disse nada, s\u00f3 disse que est\u00e1 tudo bem. Eu disse que estou com espuma na urina e ele disse que \u00e9 normal! Nossa, esses m\u00e9dicos do SUS, a maioria n\u00e3o est\u00e1 nem a\u00ed, nem passou rem\u00e9dio.",
+        "y":"N\u00e3o \u00e9 f\u00e1cil conviver com uma doen\u00e7a cr\u00f4nica, e muitas vezes ficamos ansiosos por algo que nos traga al\u00edvio imediato. No entanto, nem sempre tomar um rem\u00e9dio ou fazer uma cirurgia \u00e9 a melhor medida a ser tomada. \u00c9 preciso sempre confiar no profissional de sa\u00fade que te acompanha e seguir as suas recomenda\u00e7\u00f5es. Controlar o diabetes e viver uma vida normal \u00e9 completamente poss\u00edvel!",
+        "persona":"technical"
+    },
+    {
+        "X":"Qual leite \u00e9 o ideal? Tomo muito pouco, mas prefiro o integral e o semi desnatado.",
+        "y":"O leite desnatado possui uma quantidade menor de gorduras e carboidratos do que o leite integral, por isso, entre os leites de vaca, pode ser considerado o mais adequado para o consumo. Mas \u00e9 importante lembrar que tudo em excesso faz mal e que mais importante que comer ou deixar de comer certos alimentos, \u00e9 ter uma dieta balanceada com os nutrientes e calorias adequadas para cada pessoa. Por isso, \u00e9 ideal que se consulte com um nutricionista (que est\u00e3o dispon\u00edveis gratuitamente no SUS) que poder\u00e1 montar uma dieta ideal para as suas necessidades.",
+        "persona":"technical"
+    },
+    {
+        "X":"Algu\u00e9m conhece algum rem\u00e9dio caseiro pelo qual melhorou da diabetes?",
+        "y":"Nem todos os rem\u00e9dios caseiros est\u00e3o proibidos, mas muitos n\u00e3o podem ser utilizados, porque provocam efeitos colaterais. Al\u00e9m disso, os rem\u00e9dios caseiros n\u00e3o melhoram o diabetes e n\u00e3o devem ser utilizados para controle ou tratamento. Para o controle do diabetes, \u00e9 importante que voc\u00ea converse com seu m\u00e9dico para construir um tratamento adequado ao seu estilo de vida, de forma que voc\u00ea consiga manter a proposta, al\u00e9m de ter uma alimenta\u00e7\u00e3o saud\u00e1vel e praticar exerc\u00edcios f\u00edsicos.",
+        "persona":"technical"
+    },
+    {
+        "X":"Tem algum suplemento, ou algo que diab\u00e9tico possa comer ou tomar para engordar?",
+        "y":"Suplementos devem ser avaliados individualmente por um profissional nutricionista. Para uma orienta\u00e7\u00e3o mais espec\u00edfica o ideal \u00e9 que voc\u00ea se consulte com um nutricionista (que est\u00e3o dispon\u00edveis gratuitamente no SUS) pois ele poder\u00e1 montar uma dieta ideal para as suas necessidades.",
+        "persona":"simple"
+    },
+    {
+        "X":"Excelente domingo a todos. Estou me sentindo cada dia melhor e com vontade de viver. Hoje tomei semente de chia e a medica\u00e7\u00e3o prescrita. Bom dia.",
+        "y":"\u00c9 uma excelente not\u00edcia! Lembre-se de que esses bons resultados precisam ser mantidos, portanto \u00e9 necess\u00e1rio continuar praticando os bons h\u00e1bitos de vida. Mantenha uma dieta equilibrada, pratique exerc\u00edcios f\u00edsicos regularmente, tome os rem\u00e9dios nas doses prescritas e nos hor\u00e1rios corretos e consulte o seu m\u00e9dico periodicamente.",
+        "persona":"technical"
+    },
+    {
+        "X":"O que meus 14 anos de DM1 me ensinaram, com furos de dedos di\u00e1rios e insulina aplicadas diariamente, \u00e9 que o controle da diabetes tem um trip\u00e9: medica\u00e7\u00e3o, alimenta\u00e7\u00e3o e atividade f\u00edsica. Se qualquer um desses faltar, o controle ser\u00e1 prejudicado. Felicidades, disciplina e muita sa\u00fade para n\u00f3s \ud83d\udc4d",
+        "y":"Muito bem! Voc\u00ea est\u00e1 cert\u00edssima! ",
+        "persona":"technical"
+    },
+    {
+        "X":"Hoje fiz ovo no molho de a\u00e7afr\u00e3o com bastante cheiro verde e cebola. \u2764\ufe0f Bom almo\u00e7o, amigos. \u2764\ufe0f",
+        "y":"N\u00e3o h\u00e1 nenhuma restri\u00e7\u00e3o de alimentos para os diab\u00e9ticos, o importante \u00e9 se atentar a quantidade (principalmente de carboidratos/a\u00e7\u00facares) a ser consumida e a adotar de uma padr\u00e3o alimentar saud\u00e1vel. Para uma orienta\u00e7\u00e3o mais espec\u00edfica o ideal \u00e9 que voc\u00ea se consulte com um nutricionista (que est\u00e3o dispon\u00edveis gratuitamente no SUS) pois ele poder\u00e1 montar uma dieta ideal para as suas necessidades.",
+        "persona":"simple"
+    },
+    {
+        "X":"Podemos comer mocot\u00f3?",
+        "y":"O caldo de mocot\u00f3 n\u00e3o possui muito carboidrato. Entretanto, possui muitas gorduras e por isso, o seu consumo deve ser moderado. Para uma orienta\u00e7\u00e3o mais espec\u00edfica o ideal \u00e9 que voc\u00ea se consulte com um nutricionista (que est\u00e3o dispon\u00edveis gratuitamente no SUS) pois ele poder\u00e1 montar uma dieta ideal para as suas necessidades.",
+        "persona":"simple"
+    },
+    {
+        "X":"Quanto seria a medida ideal da glicose duas horas depois das principais refei\u00e7\u00f5es?",
+        "y":"No tratamento da pessoa com diabetes, os valores ideais de glicose no sangue (glicemia) dependem de v\u00e1rios fatores, como a hora do dia em que a medida \u00e9 feita e quando foi consumida a \u00faltima refei\u00e7\u00e3o. De modo geral, em jejum e antes das refei\u00e7\u00f5es, a glicemia alvo est\u00e1 entre 80 e 130. Por outro lado, at\u00e9 2 horas depois das refei\u00e7\u00f5es, tolera-se uma glicemia de at\u00e9 180. No entanto, essa meta pode ser alterada de acordo com algumas caracter\u00edsticas de cada indiv\u00edduo. Nesse sentido, o m\u00e9dico pode optar por fazer um controle mais restrito em pessoas jovens, saud\u00e1veis e/ou com pouco tempo de diabetes, buscando valores de glicemia mais baixos. Por outro lado, pode-se tolerar um controle menos restrito em pessoas idosas, com outros problemas de sa\u00fade e/ou com longo tempo de diabetes, estabelecendo metas de glicemia mais altas. Portanto, ainda que seu exame esteja dentro das metas acima, pode ser que elas n\u00e3o sejam as mais adequadas para voc\u00ea, por isso \u00e9 muito importante que voc\u00ea mantenha controle regular com um m\u00e9dico, que ir\u00e1 estabelecer o melhor tratamento para o seu caso.",
+        "persona":"technical"
+    },
+    {
+        "X":"Eu comprei o ado\u00e7ante de batata yacon e o meu caf\u00e9 ficou horr\u00edvel, parece que ficou salgado em vez de doce.",
+        "y":"A sucralose, o aspartame e a stevia s\u00e3o ado\u00e7antes que n\u00e3o possuem calorias, ent\u00e3o n\u00e3o aumentam a quantidade de a\u00e7\u00facar no sangue. Logo, eles podem ser utilizados por pessoas com diabetes. No entanto, \u00e9 preciso lembrar que seu uso deve ser feito com modera\u00e7\u00e3o.",
+        "persona":"technical"
+    },
+    {
+        "X":"O cabelo de voc\u00eas tamb\u00e9m ficou fraco? Ou s\u00f3 o meu?",
+        "y":"Em princ\u00edpio, o diabetes em si n\u00e3o est\u00e1 associado \u00e0 queda de cabelo. Existem diversas situa\u00e7\u00f5es, como uso de produtos qu\u00edmicos no cabelo, como o estresse, como infec\u00e7\u00f5es por fungos na cabe\u00e7a, ou como doen\u00e7as (doen\u00e7as da tireoide, l\u00fapus, defici\u00eancia de ferro e de vitaminas do tipo B) que podem levar \u00e0 queda de cabelo , portanto \u00e9 importante que voc\u00ea se consulte com um m\u00e9dico para que ele avalie e tente buscar outras raz\u00f5es para a sua queda capilar.",
+        "persona":"technical"
+    },
+    {
+        "X":"Pipoca de microondas pode?",
+        "y":"A pipoca \u00e9 um alimento com muitas calorias e carboidratos. O seu consumo faz subir muito a quantidade de a\u00e7\u00facar no sangue (glicemia), e, portanto, deve ser evitado pelas pessoas com diabetes. \u00c9 importante lembrar que tudo em excesso faz mal e que mais importante que comer ou deixar de comer certos alimentos, \u00e9 ter uma dieta balanceada com os nutrientes e calorias adequadas para cada pessoa. Por isso, \u00e9 ideal que se consulte com um nutricionista (que est\u00e3o dispon\u00edveis gratuitamente no SUS) que poder\u00e1 montar uma dieta ideal para as suas necessidades.",
+        "persona":"technical"
+    },
+    {
+        "X":"Cora\u00e7\u00e3o apertado, vamos entender que: Diabetes com educa\u00e7\u00e3o \u00e9 diabetes sem complica\u00e7\u00e3o.",
+        "y":"\u00c9 isso mesmo! \u00c9 muito importante que o portador de diabetes aprenda tudo o que puder sobre essa doen\u00e7a. Com mais informa\u00e7\u00f5es a respeito do diabetes, fica bem mais f\u00e1cil compreender como funciona o tratamento, a import\u00e2ncia de se tratar corretamente, e qual \u00e9 o melhor modo de prevenir o aparecimento de complica\u00e7\u00f5es.",
+        "persona":"technical"
+    },
+    {
+        "X":"Fiz o exame para levar para o m\u00e9dico, me digam se est\u00e1 alto. Hemoglobina glicada 6,4. Glicemia em jejum 116.",
+        "y":"No tratamento da pessoa com diabetes, os valores ideais de glicose no sangue (glicemia) dependem de v\u00e1rios fatores, como a hora do dia em que a medida \u00e9 feita e quando foi consumida a \u00faltima refei\u00e7\u00e3o. De modo geral, em jejum e antes das refei\u00e7\u00f5es, a glicemia alvo est\u00e1 entre 80 e 130. Por outro lado, at\u00e9 2 horas depois das refei\u00e7\u00f5es, tolera-se uma glicemia de at\u00e9 180. No entanto, essa meta pode ser alterada de acordo com algumas caracter\u00edsticas de cada indiv\u00edduo. Nesse sentido, o m\u00e9dico pode optar por fazer um controle mais restrito em pessoas jovens, saud\u00e1veis e/ou com pouco tempo de diabetes, buscando valores de glicemia mais baixos. Por outro lado, pode-se tolerar um controle menos restrito em pessoas idosas, com outros problemas de sa\u00fade e/ou com longo tempo de diabetes, estabelecendo metas de glicemia mais altas. Portanto, ainda que seu exame esteja dentro das metas acima, pode ser que elas n\u00e3o sejam as mais adequadas para voc\u00ea, por isso \u00e9 muito importante que voc\u00ea mantenha controle regular com um m\u00e9dico, que ir\u00e1 estabelecer o melhor tratamento para o seu caso. Em rela\u00e7\u00e3o a glicada, de modo geral, no tratamento da pessoa com diabetes, busca-se atingir valores de hemoglobina glicada (HbA1c) menores que 7,0%. No entanto, essa meta pode ser alterada de acordo com algumas caracter\u00edsticas de cada indiv\u00edduo. Nesse sentido, o m\u00e9dico pode optar por fazer um controle mais restrito em pessoas jovens, saud\u00e1veis e/ou com pouco tempo de diabetes, buscando um valor de hemoglobina glicada (HbA1c) pr\u00f3ximo a 6,5%. Por outro lado, pode-se tolerar um controle menos restrito em pessoas idosas, com outros problemas de sa\u00fade e/ou com longo tempo de diabetes, estabelecendo metas de hemoglobina glicada (HbA1c) pr\u00f3ximas a 8%. Portanto, ainda que seu exame esteja dentro das metas acima, pode ser que elas n\u00e3o sejam as mais adequadas para voc\u00ea, por isso \u00e9 muito importante que voc\u00ea mantenha controle regular com um m\u00e9dico, que ir\u00e1 estabelecer o melhor tratamento para o seu caso. ",
+        "persona":"technical"
+    },
+    {
+        "X":"Podemos tomar Coca-Cola zero a\u00e7\u00facar?",
+        "y":"A coca-cola zero n\u00e3o possui a\u00e7\u00facar, mas s\u00e3o utilizados na sua composi\u00e7\u00e3o ado\u00e7antes, al\u00e9m dos aditivos qu\u00edmicos, n\u00e3o sendo uma bebida saud\u00e1vel. Por isso, o seu consumo deve ser moderado. Para uma orienta\u00e7\u00e3o mais espec\u00edfica o ideal \u00e9 que voc\u00ea se consulte com um nutricionista (que est\u00e3o dispon\u00edveis gratuitamente no SUS) pois ele poder\u00e1 montar uma dieta ideal para as suas necessidades.",
+        "persona":"simple"
+    },
+    {
+        "X":"Alguma novidade para abaixar glicose, amigos do grupo? Estou com 158 de glicose!",
+        "y":"Para tratar o diabetes deve-se comer de forma saud\u00e1vel, praticar exerc\u00edcios f\u00edsicos regularmente e, quando necess\u00e1rio, usar rem\u00e9dios que forem prescritos pelo m\u00e9dico. Normalmente, o objetivo do tratamento \u00e9 fazer a glicemia (quantidade de a\u00e7\u00facar no sangue) abaixar devagar e ficar controlada ao longo do dia. Quando uma pessoa descobre que tem diabetes por causa dos sintomas, isso normalmente significa que a glicemia dela estava muito alta. Nesse caso, pode ser necess\u00e1rio um tratamento que abaixe a quantidade de a\u00e7\u00facar do sangue mais rapidamente.",
+        "persona":"technical"
+    },
+    {
+        "X":"Ser\u00e1 que podemos tomar vinagre org\u00e2nico de ma\u00e7\u00e3?",
+        "y":"O vinagre de ma\u00e7\u00e3, assim como qualquer alimento, n\u00e3o melhora o diabetes. N\u00e3o h\u00e1 nenhuma restri\u00e7\u00e3o de alimentos para os diab\u00e9ticos, o importante \u00e9 se atentar a quantidade (principalmente de carboidratos/a\u00e7\u00facares) a ser consumida e a adotar de uma padr\u00e3o alimentar saud\u00e1vel. Para uma orienta\u00e7\u00e3o mais espec\u00edfica o ideal \u00e9 que voc\u00ea se consulte com um nutricionista (que est\u00e3o dispon\u00edveis gratuitamente no SUS) pois ele poder\u00e1 montar uma dieta ideal para as suas necessidades.",
+        "persona":"simple"
+    },
+    {
+        "X":"Ol\u00e1, gente. Eu sou diab\u00e9tica tipo 2 h\u00e1 4 anos, no momento uso 4 comprimidos de Glifage 500, 1 Forxiga 10, 1 Azukon 30. Essas medica\u00e7\u00f5es ao decorrer do dia, mas minha glicemia n\u00e3o abaixa e sempre de 180 pra cima, mesmo com dieta, ser\u00e1 o caso de ir pra insulina? Minha glicada est\u00e1 em 11. Essas medica\u00e7\u00f5es me d\u00e3o muita dor de barriga, algu\u00e9m passa pelo mesmo?",
+        "y":"\nNo tratamento da pessoa com diabetes, os valores ideais de glicose no sangue (glicemia) dependem de v\u00e1rios fatores, como a hora do dia em que a medida \u00e9 feita e quando foi consumida a \u00faltima refei\u00e7\u00e3o. De modo geral, em jejum e antes das refei\u00e7\u00f5es, a glicemia alvo est\u00e1 entre 80 e 130. Por outro lado, at\u00e9 2 horas depois das refei\u00e7\u00f5es, tolera-se uma glicemia de at\u00e9 180. No entanto, essa meta pode ser alterada de acordo com algumas caracter\u00edsticas de cada indiv\u00edduo. Nesse sentido, o m\u00e9dico pode optar por fazer um controle mais restrito em pessoas jovens, saud\u00e1veis e/ou com pouco tempo de diabetes, buscando valores de glicemia mais baixos. Por outro lado, pode-se tolerar um controle menos restrito em pessoas idosas, com outros problemas de sa\u00fade e/ou com longo tempo de diabetes, estabelecendo metas de glicemia mais altas. Portanto, ainda que seu exame esteja dentro das metas acima, pode ser que elas n\u00e3o sejam as mais adequadas para voc\u00ea, por isso \u00e9 muito importante que voc\u00ea mantenha controle regular com um m\u00e9dico, que ir\u00e1 estabelecer o melhor tratamento para o seu caso. Em rela\u00e7\u00e3o ao valor da glicada, de modo geral, no tratamento da pessoa com diabetes, busca-se atingir valores de hemoglobina glicada (HbA1c) menores que 7,0%. No entanto, essa meta pode ser alterada de acordo com algumas caracter\u00edsticas de cada indiv\u00edduo. Nesse sentido, o m\u00e9dico pode optar por fazer um controle mais restrito em pessoas jovens, saud\u00e1veis e/ou com pouco tempo de diabetes, buscando um valor de hemoglobina glicada (HbA1c) pr\u00f3ximo a 6,5%. Por outro lado, pode-se tolerar um controle menos restrito em pessoas idosas, com outros problemas de sa\u00fade e/ou com longo tempo de diabetes, estabelecendo metas de hemoglobina glicada (HbA1c) pr\u00f3ximas a 8%. Portanto, ainda que seu exame esteja dentro das metas acima, pode ser que elas n\u00e3o sejam as mais adequadas para voc\u00ea, por isso \u00e9 muito importante que voc\u00ea mantenha controle regular com um m\u00e9dico, que ir\u00e1 estabelecer o melhor tratamento para o seu caso. ",
+        "persona":"technical"
+    },
+    {
+        "X":"Bom dia a todos. Diab\u00e9ticos podem beber \u00e1gua com lim\u00e3o em jejum?",
+        "y":"\u00c1gua e lim\u00e3o, assim como qualquer alimento, n\u00e3o tem a capacidade de tratar o diabetes. \u00c9 fundamental ter uma alimenta\u00e7\u00e3o saud\u00e1vel e equilibrada. Em rela\u00e7\u00e3o a essas oscila\u00e7\u00f5es na glicemia, \u00e9 recomendado que voc\u00ea se consulte com um m\u00e9dico para que ele realize uma avalia\u00e7\u00e3o, al\u00e9m de uma com o nutricionista, o qual poder\u00e1 te orientar sua alimenta\u00e7\u00e3o e sobre a contagem de carboidratos. Para uma orienta\u00e7\u00e3o mais espec\u00edfica o ideal \u00e9 que voc\u00ea se consulte com um nutricionista (que est\u00e3o dispon\u00edveis gratuitamente no SUS) pois ele poder\u00e1 montar uma dieta ideal para as suas necessidades.",
+        "persona":"simple"
+    },
+    {
+        "X":"Podemos comer amendoim japon\u00eas?",
+        "y":"O amendoim incluindo em uma alimenta\u00e7\u00e3o balanceada n\u00e3o causa nenhum problema, ent\u00e3o ele pode ser consumido pelo diab\u00e9tico. Por\u00e9m, por ser um alimento rico em gorduras, ele \u00e9 mais cal\u00f3rico e por isso, o seu consumo deve ser moderado.  Para uma orienta\u00e7\u00e3o mais espec\u00edfica o ideal \u00e9 que voc\u00ea se consulte com um nutricionista (que est\u00e3o dispon\u00edveis gratuitamente no SUS) pois ele poder\u00e1 montar uma dieta ideal para as suas necessidades.",
+        "persona":"simple"
+    },
+    {
+        "X":"Bom dia, gente linda. Gostaria de saber se pr\u00e9-diab\u00e9tico pode consumir pasta de amendoim.",
+        "y":"A pasta de amendoim tem um baixo \u00edndice glic\u00eamico (o a\u00e7\u00facar presente nela \u00e9 absorvido mais lentamente) e isso \u00e9 algo positivo para quem tem diabetes. Mas tamb\u00e9m \u00e9 importante lembrar que tudo em excesso faz mal e que mais importante que comer ou deixar de comer certos alimentos, \u00e9 ter uma dieta balanceada com os nutrientes e calorias adequadas para cada pessoa. Por isso, \u00e9 ideal que se consulte com um nutricionista (que est\u00e3o dispon\u00edveis gratuitamente no SUS) que poder\u00e1 montar uma dieta ideal para as suas necessidades.",
+        "persona":"technical"
+    },
+    {
+        "X":"Boa noite, gente. Eu descobri h\u00e1 pouco tempo que tenho diabetes, mas n\u00e3o consigo fazer a dieta. E sinto muita quentura nas m\u00e3os, no rosto, nas partes \u00edntimas e nos p\u00e9s. Me ajudem, tamb\u00e9m tenho press\u00e3o alta.",
+        "y":"A neuropatia diab\u00e9tica pode aparecer sob v\u00e1rias formas, sendo que a mais comum se chama polineuropatia sensitiva distal. Esse tipo de neuropatia costuma atingir os membros (p\u00e9s, pernas, m\u00e3os e bra\u00e7os), iniciando com os sintomas de dor e queima\u00e7\u00e3o e, com a piora, evolui para perda da sensibilidade (dificuldade de sentir o toque). Apesar da polineuropatia sensitiva distal ser a mais comum, tamb\u00e9m h\u00e1 outras formas de neuropatia, que podem causar problemas na digest\u00e3o (disautonomia do sist\u00eama digest\u00f3rio), na urina (disautonomia da bexiga) ou que podem provocar outros tipos de problemas, como queda da press\u00e3o quando se est\u00e1 de p\u00e9 (disautonomia simp\u00e1tica). \u00c9 muito importante que voc\u00ea agende uma consulta com o seu m\u00e9dico para que ele possa avaliar a sua situa\u00e7\u00e3o e propor algum tratamento, se poss\u00edvel",
+        "persona":"technical"
+    }
+]
